@@ -1,0 +1,63 @@
+body{
+  background-image: url(background.jpg);
+  width: 4500px;
+  height: 3000px;
+  }
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  width: 80%;
+  height: 80%;
+  padding: 7%;
+  border-radius: 2%;
+  box-sizing: border-box;
+  font-size: 40px;
+  font-family: Poppins, sans-serif;
+  margin-top: 2%;
+}
+header{
+  text-align: center;
+  color: lime;
+}
+nav{
+  background-color: lime;
+  text-align: center;
+  height: 60px;
+  padding: 1%;
+}
+button{
+  font-size: 40px;
+}
+input{
+  width: 40px;
+  height: 40px;
+}
+h1{
+  margin: 0;
+}
+h2{
+  display: inline-block;
+  color: white;
+}
+h3{
+  margin: 0;
+  color: lightgray;
+}
+.batteria1{
+  background-color: sandybrown;
+  width: 35%;
+  height: 70px;
+  border-radius: 5%;
+}
+.batteria2{
+  background-color: limegreen;
+  width: 67%;
+  height: 70px;
+  border-radius: 5%;
+}
+.batteria3{
+  background-color: indianred;
+  width: 15%;
+  height: 70px;
+  border-radius: 5%;
+}
